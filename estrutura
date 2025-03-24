@@ -1,0 +1,7 @@
+landing-page/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── images/
